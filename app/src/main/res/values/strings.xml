@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewPlanets</string>
+    <string name="image_of_planets">Image of planets</string>
+    <string name="the_solar_system">The Solar System</string>
+</resources>
